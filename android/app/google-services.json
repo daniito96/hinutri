@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478684490414",
+    "firebase_url": "https://hi-nutri.firebaseio.com",
+    "project_id": "hi-nutri",
+    "storage_bucket": "hi-nutri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478684490414:android:5e7428d47ea768dd1fdb3f",
+        "android_client_info": {
+          "package_name": "com.example.hinutri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478684490414-66tj89e28afi7sa110iujuqh9euduqno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hinutri",
+            "certificate_hash": "8a5af66b6bbb45fd732c91989b192b563126d85a"
+          }
+        },
+        {
+          "client_id": "478684490414-e0aj7hjo8ipect3bruc5ibncuk4rm2a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHxYfdQMbrjkrA0n2fQvS6RO38B-qniY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478684490414-e0aj7hjo8ipect3bruc5ibncuk4rm2a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
